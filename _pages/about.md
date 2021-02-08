@@ -23,7 +23,7 @@ redirect_from:
 - My research interest includes speech synthesis, neural machine translation and automatic music generation.
 - I have published 15 papers at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
 - I used to be an intern at Microsoft Asia Research (MSRA), NetEase Artificial Intelligence Department and DashBase.
-- Graduated from high school at Luqiao Middle School in Taizhou, and won the first prize of the NOIP 2013 (Zhejiang Province).
+- I was Graduated from high school at Luqiao Middle School in Taizhou, and won the first prize of the NOIP 2013 (Zhejiang Province).
 
 
 # Publications
