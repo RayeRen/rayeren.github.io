@@ -17,13 +17,13 @@ redirect_from:
 - 高中毕业于浙江省台州市路桥中学，曾获2013年全国青少年信息学奥林匹克联赛（浙江赛区）一等奖。
 
 # Biography
-- I was Graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
+- I was graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
 - Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA closely.
 - I won the Baidu Scholarship and ByteDance Scholars Program in 2020.
 - My research interest includes speech synthesis, neural machine translation and automatic music generation.
 - I have published 15 papers at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
 - I used to be an intern at Microsoft Asia Research (MSRA), NetEase Artificial Intelligence Department and DashBase.
-- I was Graduated from high school at Luqiao Middle School in Taizhou, and won the first prize of the NOIP 2013 (Zhejiang Province).
+- I won the first prize of the NOIP 2013 (Zhejiang Province) in high school.
 
 
 # Publications
