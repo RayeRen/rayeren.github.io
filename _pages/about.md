@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,75 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 本科毕业于浙江大学竺可桢学院15级混合班（计算机科学与技术专业），目前在浙江大学计算机科学与技术学院攻读硕士研究生二年级，导师：赵洲副教授；与微软亚洲研究院的谭旭、秦涛和刘铁岩老师等人有密切合作。
+- 曾获2020年度百度奖学金、2020年度字节奖学计划。
+- 兴趣方向是语音合成、机器翻译和自动作曲。
+- 在NeurIPS、ICML、ICLR、KDD等国际人工智能顶级会议上发表论文15篇，其中第一作者7篇，担任ICML等会议的reviewer。
+- 曾于微软亚洲研究院、网易人工智能事业部和Dashbase实习。
+- 高中毕业于浙江省台州市路桥中学，曾获2013年全国青少年信息学奥林匹克联赛（浙江赛区）一等奖。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Biography
+- I was Graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
+- Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA closely.
+- I won the Baidu Scholarship and ByteDance Scholars Program in 2020.
+- My research interest includes speech synthesis, neural machine translation and automatic music generation.
+- I have published 15 papers at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
+- I used to be an intern at Microsoft Asia Research (MSRA), NetEase Artificial Intelligence Department and DashBase.
+- Graduated from high school at Luqiao Middle School in Taizhou, and won the first prize of the NOIP 2013 (Zhejiang Province).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Publications
+### 🎙 Speech Synthesis
+1. [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf), **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, Advances in Neural Information Processing Systems (NeurIPS), 2019
+  - **学术影响** 谷歌学术引用过百。被多个知名语音项目收录，如百度的 [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet)、[ESPNet](https://github.com/espnet/espnet) (Github Star 3.3k+) 等。被国内外二十多家知名媒体和论坛报道，如[机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu)等。一年来，多个基于FastSpeech的歌声合成、情感化语音合成工作被提出，在泛娱乐领域展示出较大的应用价值。
+  - **业界影响** FastSpeech已在微软Azure部署数十种语言的语音合成系统 [(官方报道链接)](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911)，相比旧模型节约一半以上的计算成本，降低推理数倍延迟；FastSpeech已在一知智能公司部署应用 [(官方报道链接)](https://zhuanlan.zhihu.com/p/144676195)，在CPU上的推理速度和稳定性相比Tacotron 2有极大提升，大幅节约计算成本；在英伟达开发者大会（GTC2020）上作为语音合成加速的范例展示 [(官方报道链接)](https://resources.nvidia.com/events/GTC2020s21420)
+  - [**Demo**](https://speechresearch.github.io/fastspeech/)
+1. [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, International Conference on Learning Representations (ICLR), 2021
+  - 第二代FastSpeech模型
+  - [**Demo**](https://speechresearch.github.io/fastspeech2/)
+1. [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, International Conference on Machine Learning (ICML) 2019
+  - [**Demo**](https://speechresearch.github.io/unsuper/)
+1. [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu, 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020 
+  - [**Demo**](https://speechresearch.github.io/deepsinger/)
+1. [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu, 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020 
+  - [**Demo**](https://speechresearch.github.io/lrspeech/)
+1. [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin, Conference of the International Speech Communication Association (INTERSPEECH) 2020
+  - [**Demo**](https://speechresearch.github.io/multispeech/)
+1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, Jinglin Liu, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021
+  - [**Demo**](https://speechresearch.github.io/denoispeech/)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### 📚 Machine Translation 
+1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020
+1. [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu, the 29th International Joint Conference on Artificial Intelligence (IJCAI) 2020
+1. [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, Seventh International Conference on Learning Representations. (ICLR) 2019
+1. [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, Tao Qin, Kejun Zhang, Tie-Yan Liu, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021
+  - [**Demo**](https://speechresearch.github.io/uwspeech/)
 
-**Markdown generator**
+### 🎼 Music Generation 
+1. [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021
+1. [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
+  - [**Demo**](https://speechresearch.github.io/popmag/)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### 💡 Other Sequence Generation Tasks 
+1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
+1. [A Study of Non-autoregressive Model for Sequence Generation](https://www.aclweb.org/anthology/2020.acl-main.15.pdf), **Yi Ren**, Jinglin Liu, Xu Tan, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Honors and Awards
+- *2020.12* Baidu Scholarship (10 students in the world)
+- *2020.12* ByteDance Scholars Program (10 students in China)
+- *2020.09* Tianzhou Chen Scholarship (Top 1%)
+- *2020.09* National Scholarship (Top 1%)
+- *2015.09* National Scholarship (Top 1%)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# Educations
+- *2019.06 - Now* Master, Zhejiang Univeristy, Hangzhou.
+- *2015.09 - 2019.06* Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
+- *2012.09 - 2015.06* Luqiao Middle School, Taizhou.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+# Internships
+- *2019.02 - 2019.05* YiWise, Hangzhou.
+- *2018.08 - 2019.02* MSRA, machine learning Group, Beijing.
+- *2018.01 - 2018.06* NetEase, AI department, Hangzhou.
+- *2017.08 - 2018.12* DashBase, Hangzhou.

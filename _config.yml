@@ -11,7 +11,7 @@ title                    : "Yi Ren (任意)"
 title_separator          : "-"
 name                     : &name "Yi Ren (任意)"
 description              : &description "personal description"
-url                      : https://rayeren.github.io
+url                      : ""
 baseurl                  : ""
 repository               : "rayeren/rayeren.github.io"
 teaser                   : bio-photo-2.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Yi Ren (任意)"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "ry_profile.jpeg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613 AT gmail.com"
+  email            : "rayeren@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/rayeren"
+  linkedin         : "https://www.linkedin.com/in/rayeren"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
