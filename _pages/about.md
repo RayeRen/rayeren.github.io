@@ -20,7 +20,7 @@ redirect_from:
 # Biography
 - I was graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
 - Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA closely.
-- I won the [Baidu Scholarship](http://scholarship.baidu.com/)(10 candidates worldwide each year) and ByteDance Scholars Program (10 candidates worldwide each year) in 2020.
+- I won the [Baidu Scholarship](http://scholarship.baidu.com/) (10 candidates worldwide each year) and ByteDance Scholars Program (10 candidates worldwide each year) in 2020.
 - I was selected as one of [the top 100 AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) and AI Chinese New Star Outstanding Scholar (10 candidates worldwide each year).
 - My research interest includes speech synthesis, neural machine translation and automatic music generation.
 - I have published 15 papers at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
