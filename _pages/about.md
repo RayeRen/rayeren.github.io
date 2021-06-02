@@ -47,6 +47,9 @@ redirect_from:
   - [**Demo**](https://speechresearch.github.io/multispeech/)
 1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, Jinglin Liu, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021
   - [**Demo**](https://speechresearch.github.io/denoispeech/)
+1. WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution, Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao, INTERSPEECH 2021
+1. EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model, Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao, INTERSPEECH 2021
+1. FedSpeech: Federated Text-to-Speech with Continual Learning, Ziyue Jiang, **Yi Ren**, Ming Lei and Zhou Zhao, International Joint Conference on Artificial Intelligence (IJCAI) 2021
 
 ### 📚 Machine Translation 
 1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020
