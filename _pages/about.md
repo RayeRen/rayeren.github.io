@@ -82,7 +82,8 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 </div>
 
 
-
+- [Revisiting Over-Smoothness in Text to Speech](), **Yi Ren**, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ACL 2022**
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](), Jinglin Liu, Chengxi Li, **Yi Ren**, Zhiying Zhu, Zhou Zhao, **ACL 2022**
 - [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, Ming Lei, Zhiying Huang,  Shiliang Zhang, Qian Chen, Zhijie Yan, Zhou Zhao, **ICASSP 2022**
 - [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao, **INTERSPEECH 2021**
 - [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao, **INTERSPEECH 2021** <span style="color:red">(best student paper award candidate)</span>
@@ -106,6 +107,7 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 - [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu, **ACL 2020**
 - [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ICLR 2019**
 
+
 ## 🎼 Music Generation 
 - [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, **AAAI 2021**
 - [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ACM-MM 2020** <span style="color:red">(Oral)</span> \| [**Project**](https://speechresearch.github.io/popmag/)
@@ -126,7 +128,7 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 - *2015.10* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Master, Zhejiang Univeristy, Hangzhou.
+- *2019.06 - 2022.04 (now)*, Master, Zhejiang University, Hangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
 
