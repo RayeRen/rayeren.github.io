@@ -21,7 +21,10 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 1000!
+- *2022.02*: 🎉🎉 Two papers are accepted by ACL 2022:
+  - [Revisiting Over-Smoothness in Text to Speech](), **Yi Ren**, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu
+  - [Learning the Beauty in Songs: Neural Singing Voice Beautifier](), Jinglin Liu, Chengxi Li, **Yi Ren**, Zhiying Zhu, Zhou Zhao
+- *2022.02*: 🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 1000!
 - *2022.02*: We public a Non-Autoregressive Text-to-Speech (NAR-TTS) framework [NATSpeech ![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social)](https://github.com/NATSpeech/NATSpeech), including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022). 🎉🎉 It was shown on the [Github Daily Trending List](https://github.motakasoft.com/trending/?d=2022-02-19&l=all) on 19 Feb 2022!
 
 
