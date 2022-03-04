@@ -15,6 +15,7 @@ jobs:
         python3 update.py
         git init
         git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "rayeren613@gmail.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/RayeRen/RayeRen.git"
         git add README.md
         git add images
