@@ -1,0 +1,21 @@
+name: Update github myprofile
+
+on: 'page_build'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Reqs
+      run: |
+        sudo apt-get install python3-setuptools
+    - name: Run
+      run: |
+        cd ./github_myprofile_updater
+        pip3 install -r requirements.txt
+        python3 update.py
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/RayeRen/RayeRen.git"
+        git add README.md
+        git commit -m "update my description automatically"
+        git push "${remote_repo}" HEAD:main --force
