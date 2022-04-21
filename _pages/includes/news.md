@@ -1,4 +1,8 @@
 # 🔥 News
+- *2022.04*: Three papers are accepted by IJCAI 2022:
+  - SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech, Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu
+  - EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling, Lichao Zhang, Zhou Zhao, **Yi Ren**, Liqun Deng
+  - FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis, Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao
 - *2022.03*: We release [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB), the code of our ACL 2022 work (singing voice beautifying). 🚧 ⛏️ 🛠️ 👷 
 - *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
 - *2022.02*: 🎉🎉 Two papers are accepted by ACL 2022:
