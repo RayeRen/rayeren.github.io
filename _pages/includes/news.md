@@ -1,4 +1,5 @@
 # 🔥 News
+- *2022.05*: I join [Sea AI Lab](https://sail.sea.com/) <img src='https://sail.sea.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-sea-header-desktop.43f2b8a9.png&w=384&q=75' style='width: 6em;'>.
 - *2022.04*: Three papers are accepted by IJCAI 2022:
   - SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech, Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu
   - EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling, Lichao Zhang, Zhou Zhao, **Yi Ren**, Liqun Deng

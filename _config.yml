@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Ren (任意)"
-description              : "Master's student at Zhejiang University. Focusing on speech, NLP and music."
+description              : "Research scientist in Sea AI Lab. Graduated from Zhejiang University. Focusing on speech, NLP and music."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yi Ren (任意)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Sea AI Lab"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
