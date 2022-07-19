@@ -51,6 +51,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 
+- [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, **ACM-MM 2022**
+- [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang, **ACM-MM 2022**
 - [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu, **IJCAI 2022**
 - [EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling](), Lichao Zhang, Zhou Zhao, **Yi Ren**, Liqun Deng, **IJCAI 2022** <span style="color:red">(Oral)</span>
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](), Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao, **IJCAI 2022** <span style="color:red">(Oral)</span>
@@ -87,3 +89,5 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## 🧑‍🎨 Generative Model
 - [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, **ICLR 2022** \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
+## Others
+- [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**, **ACM-MM 2022**
