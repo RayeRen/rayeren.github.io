@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Ren (任意)"
-description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
+description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yi Ren (任意)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Sea AI Lab"
+  bio              : "Bytedance AI Lab"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
+  email            : "rayeren613@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
