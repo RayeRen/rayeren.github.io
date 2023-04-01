@@ -1,4 +1,4 @@
-# 📝 Publications
+# Publications
 
 ## 🎙 Drone navigation
 
