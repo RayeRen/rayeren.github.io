@@ -6,58 +6,57 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+title: 'Xubo Luo'
+description: 'Undergraduate student at Shanghai University of Finance and Economics. Working on drone navigation and image matching.'
+repository: 'LuoXubo/LuoXubo.github.io'
+google_scholar_stats_use_cdn: false
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id:
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "RayeRen"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: 'Xubo Luo'
+  avatar: 'images/profile.jpg'
+  bio: 'Shanghai University of Finance and Economics'
+  location: 'Shanghai'
+  employer:
+  pubmed:
+  googlescholar: # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  email: 'luoxubo@hotmail.com'
+  researchgate: 'https://www.researchgate.net/profile/Xubo-Luo'
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: 'LuoXubo'
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: #"rayeren"
+  dblp: #"https://dblp.org/pid/75/6568-6.html"
+  orcid: 'https://orcid.org/0000-0002-7388-5749'
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
@@ -65,8 +64,8 @@ include:
   - _pages
   - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
+  - '*.sublime-project'
+  - '*.sublime-workspace'
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -93,9 +92,8 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+encoding: 'utf-8'
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
 
 # Conversion
 markdown: kramdown
@@ -103,7 +101,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -120,23 +117,20 @@ kramdown:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: ''
       type: pages
     values:
       layout: default
       author_profile: true
-
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -152,7 +146,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
