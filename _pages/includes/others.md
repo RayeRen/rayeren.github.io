@@ -11,6 +11,7 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
 # 💻 Internships
+- *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
 - *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
 - *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
