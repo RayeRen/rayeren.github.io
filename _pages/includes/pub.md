@@ -6,10 +6,10 @@
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning-based UAV localization.](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Xubo Luo**, Yaolin Tian, Xue Wan, Jinzhong Xu, Tao ke
+**Xubo Luo**, Yaolin Tian, Xue Wan, Jinzhong Xu, Tao Ke
 
 - Due to the large scale and illumination difference between aerial and satellite images, it is challenging that most existing cross-view image matching algorithms fail to localize the UAV images robustly and accurately. To solve the above problem, a novel UAV localization framework containing three-stage coarse-to-fine image matching is proposed.
-- [arXiv](https://arxiv.org) [code](https://github.com/LuoXubo)
+- [paper](https://ieeexplore.ieee.org/abstract/document/10137193) [code](https://github.com/LuoXubo)
 
 </div>
 </div>
