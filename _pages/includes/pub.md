@@ -9,7 +9,7 @@ Deep learning based cross-view image matching for UAV geo-localization. \\
 **Xubo Luo**, Yaolin Tian, Xue Wan, Jinzhong Xu, Tao Ke
 
 - Due to the large scale and illumination difference between aerial and satellite images, it is challenging that most existing cross-view image matching algorithms fail to localize the UAV robustly and accurately. To solve the above problem, a novel UAV localization framework containing three-stage coarse-to-fine image matching is proposed.
-- [paper](https://ieeexplore.ieee.org/abstract/document/10137193) [code](https://github.com/LuoXubo)
+- [paper](https://ieeexplore.ieee.org/abstract/document/10137193)
 
 </div>
 </div>
