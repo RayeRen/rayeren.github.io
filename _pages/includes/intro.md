@@ -1,4 +1,4 @@
-I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
+I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist now in Singapore. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Ren (任意)"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
+description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yi Ren (任意)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
+  bio              : "TikTok"
   location         : "Singapore"
   employer         :
   pubmed           : 
