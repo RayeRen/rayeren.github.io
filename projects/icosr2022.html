@@ -62,34 +62,46 @@
           <div class="columns is-centered">
             <div class="column has-text-centered">
               <h1 class="title is-1 publication-title">
-                Academic Project Page
+                Deep learning based cross-view image matching for UAV
+                geo-localization
               </h1>
               <div class="is-size-5 publication-authors">
                 <!-- Paper authors -->
                 <span class="author-block">
                   <a href="FIRST AUTHOR PERSONAL LINK" target="_blank"
-                    >First Author</a
-                  ><sup>*</sup>,</span
-                >
+                    >Xubo Luo</a
+                  >,
+                </span>
                 <span class="author-block">
                   <a href="SECOND AUTHOR PERSONAL LINK" target="_blank"
-                    >Second Author</a
-                  ><sup>*</sup>,</span
-                >
+                    >Yaolin Tian</a
+                  >,
+                </span>
                 <span class="author-block">
                   <a href="THIRD AUTHOR PERSONAL LINK" target="_blank"
-                    >Third Author</a
+                    >Xue Wan<sup>*</sup>,</a
+                  >
+                </span>
+                <span class="author-block">
+                  <a href="Fourth AUTHOR PERSONAL LINK" target="_blank"
+                    >Jingzhong Xu</a
+                  >,
+                </span>
+                <span class="author-block">
+                  <a href="Fiveth AUTHOR PERSONAL LINK" target="_blank"
+                    >Tao Ke</a
                   >
                 </span>
               </div>
 
               <div class="is-size-5 publication-authors">
                 <span class="author-block"
-                  >Institution Name<br />Conferance name and year</span
+                  >University of Chinese Academy of Sciences<br />ICoSR 2022
+                  2022</span
                 >
                 <span class="eql-cntrb"
                   ><small
-                    ><br /><sup>*</sup>Indicates Equal Contribution</small
+                    ><br /><sup>*</sup>Indicates Corresponding Author</small
                   ></span
                 >
               </div>
@@ -186,15 +198,30 @@
             <h2 class="title is-3">Abstract</h2>
             <div class="content has-text-justified">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-                ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna
-                feugiat nibh elementum, et tempor dolor mattis. Donec accumsan
-                enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex
-                eget mauris cursus euismod nec et nibh. Maecenas ac gravida
-                ante, nec cursus dui. Vivamus purus nibh, placerat ac purus
-                eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus
-                gravida commodo. Pellentesque auctor leo vitae sagittis
-                suscipit.
+                Unmanned Aerial Vehicles (UAVs) geo-localization refers to
+                finding the position of a given aerial image in a large
+                reference satellite image. Due to the large scale and
+                illumination difference between aerial and satellite images, it
+                is challenging that most existing cross-view image matching
+                algorithms fail to localize the UAV images robustly and
+                accurately. To solve the above problem, a novel UAV localization
+                framework containing three-stage coarse-to-fine image matching
+                is proposed. In the first stage, the satellite image is cropped
+                into several local reference images to be matched with the
+                aerial image. Then, ten candidate local images are selected from
+                all of the local reference images with a simple and effective
+                deep learning network, LPN. At last, a deep feature-based
+                matching is employed between candidate local reference images
+                and aerial images to determine the optimal position of the UAV
+                in the reference map via homography transformation. In addition,
+                a satellite-UAV image dataset is proposed, which contains 3
+                large-scale satellite images and 1909 aerial images. To
+                demonstrate the performance of the proposed method, experiments
+                on the large-scale proposed dataset are conducted. The
+                experimental results illustrate that for more than 80% of the
+                testing pair images, the proposed method is capable of refining
+                the positioning error within 5 pixels, which meets the needs of
+                UAV localization and is superior to other popular methods.
               </p>
             </div>
           </div>
@@ -322,7 +349,7 @@
     <!-- End video carousel -->
 
     <!-- Paper poster -->
-    <section class="hero is-small is-light">
+    <!-- <section class="hero is-small is-light">
       <div class="hero-body">
         <div class="container">
           <h2 class="title">Poster</h2>
@@ -331,14 +358,24 @@
           </iframe>
         </div>
       </div>
-    </section>
+    </section> -->
     <!--End paper poster -->
 
     <!--BibTex citation -->
     <section class="section" id="BibTeX">
       <div class="container is-max-desktop content">
         <h2 class="title">BibTeX</h2>
-        <pre><code>BibTex Code Here</code></pre>
+        <pre><code>@INPROCEEDINGS{10137193,
+          author={Luo, Xubo and Tian, Yaolin and Wan, Xue and Xu, Jingzhong and Ke, Tao},
+          booktitle={2022 International Conference on Service Robotics (ICoSR)}, 
+          title={Deep learning based cross-view image matching for UAV geo-localization}, 
+          year={2022},
+          volume={},
+          number={},
+          pages={102-106},
+          keywords={Location awareness;Deep learning;Satellites;Service robots;Image matching;Refining;Lighting;deep learning;image matching;geo-localization;autonomous drone navigation},
+          doi={10.1109/ICoSR57188.2022.00028}}
+        </code></pre>
       </div>
     </section>
     <!--End BibTex citation -->
