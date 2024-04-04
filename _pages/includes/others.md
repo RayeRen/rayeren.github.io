@@ -1,6 +1,6 @@
 # Educations
 
-- _2023.09 - 2026.06 (Expected)_, Master, University of Chinese Academy and Science, Beijing.
+- _2023.09 - 2026.06 (Expected)_, Master, University of Chinese Academy of Sciences, Beijing.
 - _2019.09 - 2023.06_, Bachelor, Shanghai University of Finance and Economics, Shanghai.
 
 # Internships
