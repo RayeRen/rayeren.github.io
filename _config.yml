@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Shijie Bao (包诗界)"
 description              : "Postdoctoral Fellow"
-repository               : "bsjie.github.io"
+repository               : "Naihuang-Bao/bsjie.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,9 +22,9 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Shijie Bao (包诗界)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : 
   bio              : 
-  location         : "Beijing China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FKbOyUAAAAAJ&hl"
