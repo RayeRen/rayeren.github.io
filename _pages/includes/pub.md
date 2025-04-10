@@ -1,5 +1,10 @@
 
 # 📝 Publications 
+
+## Copyright
+**Yunjia Qi**, Qifeng Han, and Tianfang Qin, "All-in-One Fitness Management System," software, CN Copyright 2024R11L2043109, Oct. 2024.
+
+<!--
 ## 🎙 Speech Synthesis
 
 
@@ -134,3 +139,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+注释 -->
