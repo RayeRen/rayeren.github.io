@@ -19,10 +19,10 @@
 - [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
 - [3D Christmas Valley]
 
- ## Software Development
+## Software Development
  - [All-in-One Fitness Management System]
 
- ## Game Design
+## Game Design
  - [Tank Battle]
  - [Rouge Game]
 
