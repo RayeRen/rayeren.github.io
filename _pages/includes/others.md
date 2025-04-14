@@ -13,5 +13,5 @@
 
 # 💬 Projects
 ## Computer Graphics
-- 2D Ivitation Card: https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony
+- [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
 
