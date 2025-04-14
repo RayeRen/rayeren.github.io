@@ -15,3 +15,10 @@
 ## Computer Graphics
 - [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
 
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='[images/fs.png](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony/tree/main/fig/fig3)' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+</div>
+</div>
+
