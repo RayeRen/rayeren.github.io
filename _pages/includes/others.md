@@ -12,6 +12,6 @@
 
 
 # 💬 Projects
-- OpenGL
-- https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony
+## Computer Graphics
+- 2D Ivitation Card: https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony
 
