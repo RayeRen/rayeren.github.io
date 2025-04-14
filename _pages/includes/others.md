@@ -5,7 +5,7 @@
 - *2018.09 - 2021.06*, No.4 Middle School, Xiangyang, Hubei.
 
 
-# 💬 Invited Talks
+# 💬 Projects
 
 # 💻 Internships
 - *2024.06 - 2025.09*, Research Assistent, Institute of Acoustics, Chinese Academy of Sciences.
