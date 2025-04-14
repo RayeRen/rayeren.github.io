@@ -18,7 +18,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenGL</div><img src='projectFig/fig3.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony) \\
-*Yunjia QI**
+**Yunjia QI**
 </div>
 </div>
 
