@@ -12,10 +12,12 @@
 
 
 # 💬 Projects
+## Sound Synthesis
+- [Foley Sound Synthesis]
+
 ## Computer Graphics
 - [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
-
-
+- [3D Christmas Valley]
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenGL</div><img src='projectFig/fig3.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -24,3 +26,10 @@
 </div>
 </div>
  -->
+
+ ## Software Development
+ - [All-in-One Fitness Management System]
+
+ ## Game Design
+ - [Tank Battle]
+ - [Rouge Game]
