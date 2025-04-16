@@ -17,7 +17,7 @@
 
 ## Computer Graphics
 - [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
-- [3D Christmas Valley]
+- [3D Christmas Valley](https://github.com/QiYunjia/OPENGL-Christmas-Village)
 
 ## Software Development
  - [All-in-One Fitness Management System]
