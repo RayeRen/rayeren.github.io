@@ -16,7 +16,9 @@
 - [Foley Sound Synthesis]
 
 ## Computer Graphics
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenGL</div>
 - [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony)
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenGL</div>
 - [3D Christmas Valley](https://github.com/QiYunjia/OPENGL-Christmas-Village)
 
 ## Software Development
