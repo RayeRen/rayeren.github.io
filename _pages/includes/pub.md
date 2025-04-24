@@ -3,8 +3,10 @@
 
 ## Journal
 Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia (SCI Q1, IF 5.7)
+
 ## Conference
 Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images", under review.
+Qifeng Han,**Yunjia Qi**, Tianfang Qin, Liu Yang, Chenghao Hu, Sichen Liu, "Wavelet Convolution: An Urban Sound Source Recognition Method", under review.
 
 ## Patent
 Tianfang Qin, **Yunjia Qi**, Qifeng Hann, Sichen Liu, "Detection and Classification System for Abnormal Sounds in Substations Based on Convolutional Neural Networks and Data Augmentation Methods" CN Patent 202411406788.6
