@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2025.06 - 2026.04*, Ms, Oxford Internet Institute, University of Oxford.
 - *2021.09 - 2025.06*, Bsc, School of Advanced Technology, Xi'an Jiaotong Liverpool University, Suchou, Jiangsu.
-- *2018.09 - 2021.06*, No.4 Middle School, Xiangyang, Hubei.
+- *2018.09 - 2021.06*, Xiangyang No.4 High School of Hubei, Xiangyang, Hubei.
 
 # 💻 Internships
 - *2024.06 - 2024.09*, Research Assistant, Institute of Acoustics, Chinese Academy of Sciences.
