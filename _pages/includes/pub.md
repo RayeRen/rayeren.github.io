@@ -6,7 +6,7 @@
 
 ## Conference
 - Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images", under review.
-- Qifeng Han,**Yunjia Qi**, Tianfang Qin, Liu Yang, Chenghao Hu, Sichen Liu, "Wavelet Convolution: An Urban Sound Source Recognition Method," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
+- ``ICASIS`` Qifeng Han,**Yunjia Qi**, Tianfang Qin, Liu Yang, Chenghao Hu, Sichen Liu, "Wavelet Convolution: An Urban Sound Source Recognition Method," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
 
 
 ## Patent
