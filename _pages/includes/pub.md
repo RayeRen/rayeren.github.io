@@ -1,5 +1,21 @@
 
 # 📝 Publications 
+
+## Journal
+- Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia (SCI Q1, IF 5.7)
+
+## Conference
+- Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images", under review.
+- ``ICASIS`` Qifeng Han,**Yunjia Qi**, Tianfang Qin, Liu Yang, Chenghao Hu, Sichen Liu, "Wavelet Convolution: An Urban Sound Source Recognition Method," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
+
+
+## Patent
+- Tianfang Qin, **Yunjia Qi**, Qifeng Hann, Sichen Liu, "Detection and Classification System for Abnormal Sounds in Substations Based on Convolutional Neural Networks and Data Augmentation Methods" CN Patent 202411406788.6
+
+## Copyright
+- **Yunjia Qi**, Qifeng Han, and Tianfang Qin, "All-in-One Fitness Management System," software, CN Copyright 2024R11L2043109.
+
+<!--
 ## 🎙 Speech Synthesis
 
 
@@ -134,3 +150,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+注释 -->
