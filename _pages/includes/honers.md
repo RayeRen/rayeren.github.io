@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.05* XJTLU Electronic Transition Self-discipline Challenge, Winner
 - *2025.03* XJTLU Alumni Ambassador
 - *2024.11* XJTLU Outstanding Student
 - *2024.09* Summer Undergraduate Research Fellowship, Winner
